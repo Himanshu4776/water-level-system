@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bgWhite {
+  background-color: white;
+}
+
+.bgBlue {
+  background-color: #3b82f6;
+}
+
+.GreenButton {
+  border: solid;
+  border-color: green;
+  color: white;
+  background-color: green;
+}
+
+.RedButton {
+  border: solid;
+  border-color: red;
+  color: red;
+}
